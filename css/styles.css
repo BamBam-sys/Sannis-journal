@@ -46,4 +46,8 @@ form{
 
 input{
   box-shadow: 3px 3px 0 0 #e4572e;
+  background-color: white;
+  padding: 0.8rem;
+  border-top-color: white;
+  border-left-color: white;
 }
